@@ -1,0 +1,1 @@
+The Cafe Menu is a static web page designed to display a cafe's food and beverage offerings. It uses HTML for the structure and CSS for styling. This project is easy to customize and provides a visually appealing layout suitable for any cafe or restaurant.
